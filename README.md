@@ -1,7 +1,8 @@
 ```markdown
   Hello, I'm [Richard Yeboah]
 
-Financial Analyst | Data Storyteller | Insights Architect
+Financial Analyst | Data Storyteller 
+
 
 Welcome to my GitHub! I'm a results-driven Financial Analyst with a strong foundation in data analytics, visualization, and automation, using tools like SQL, Power BI, Tableau, Excel, and Python.
 I bridge the gap between raw data and strategic decision-making — turning spreadsheets into strategy and dashboards into direction.
