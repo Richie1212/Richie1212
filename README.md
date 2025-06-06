@@ -1,7 +1,8 @@
 ```markdown
   Hello, I'm [Richard Yeboah]
+  I love to play with data
 
-Financial Analyst | Data Storyteller 
+Financial Analyst | Data Analysis 
 
 
 Welcome to my GitHub! I'm a results-driven Financial Analyst with a strong foundation in data analytics, visualization, and automation, using tools like SQL, Power BI, Tableau, Excel, and Python.
@@ -25,13 +26,14 @@ I bridge the gap between raw data and strategic decision-making — turning spre
 - BI & Analytics: Power BI, Tableau, Excel (Power Query, PivotTables, VBA)  
 - Data: Financial Modeling, Forecasting, KPI Tracking, Budget Variance Analysis  
 - Automation: Python scripts for reporting, Excel automation, scheduled data refreshes
+- Figma, Canva : for designing dashboards
 
 ---
 
 What You'll Find Here
 
 Explore my repositories for:
-- Interactive dashboards built for real-world financial use cases  
+- Interactive dashboards built for real-world use cases  
 - SQL scripts for data extraction, transformation, and analysis  
 - Data visualizations designed with storytelling in mind  
 - Python notebooks for automation and financial analysis
@@ -43,8 +45,8 @@ Explore my repositories for:
 If you’re interested in collaborating, hiring, or exchanging ideas, feel free to connect:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/richardyeboah1)  
-- 📧 richardsyeb23@gmail.com  
-- 🌍 [Portfolio / Website (optional)](https://your-website.com)
+- 📧 richardsyeb23@gmail.com
+- 🌍 [Portfolio / Website (under maintenance)
 
 ---
 
