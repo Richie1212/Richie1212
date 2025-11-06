@@ -2,10 +2,10 @@
   Hello, I'm [Richard Yeboah]
   I love to play with data
 
-Financial Analyst | Data Analysis 
+Financial Analyst | Data Analysis | Machine Learning | AI Engineer
 
 
-Welcome to my GitHub! I'm a results-driven Financial Analyst with a strong foundation in data analytics, visualization, and automation, using tools like SQL, Power BI, Tableau, Excel, and Python.
+Welcome to my GitHub! I'm a results-driven Financial Analyst with a strong foundation in data analytics, visualization, and automation, using tools like SQL, Power BI, Excel, and Python.
 I bridge the gap between raw data and strategic decision-making — turning spreadsheets into strategy and dashboards into direction.
 
 ---
