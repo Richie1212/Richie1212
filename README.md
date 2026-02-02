@@ -1,56 +1,43 @@
-```markdown
-Hello, I'm [Richard Yeboah]
-I love to play with data
+# 🧠 Richard Yeboah
 
-I build intelligent systems that solve real-world problems using Machine Learning, Deep Learning, and data-driven automation.
-My work focuses on building scalable models, end-to-end ML pipelines, and AI-powered tools that streamline complex workflows.
-I enjoy transforming raw data into insights, predictive models, and production-ready AI applications.
+ **`Data Analyst/Scientist`**
 
-🔹 Experienced in Python, SQL, Pandas, NumPy, Scikit-Learn, TensorFlow, and PyTorch
-🔹 Strong background in data analysis, feature engineering, and model optimization
-🔹 Interested in AI automation, financial modeling, and real-time analytics
-🔹 Passionate about building software that replaces repetitive tasks with smart automation
-🔹 Always learning, experimenting, and improving with every project
-
----
-
- Tools & Tech
-
-- Languages: Python, SQL, JavaScript
-- ML & AI: Scikit-Learn, TensorFlow, PyTorch, XGBoost, LangChain, OpenAI APIs
-- Data Tools: Pandas, NumPy, Matplotlib, Seaborn, Power BI
-- Databases: MySQL, PostgreSQL
-- Cloud & DevOps: AWS, Docker, Git/GitHub
-- Other: FastAPI, Flask, Streamlit, REST APIs
-
----
-
-What You'll Find Here
-
-Explore my repositories for:
-- Models for classification, regression, NLP, recommendation systems, time series forecasting, and more — built with real-world datasets.  
-- Hands-on data cleaning, EDA (Exploratory Data Analysis), SQL projects, and automated reporting dashboards using Python and Power BI.  
-- AI-powered applications, chatbots, and workflow automation tools using:
-   OpenAI API, Langchain, FastAPI/Streamlit, Custom ML models 
-- Python notebooks for automation and financial analysis
-- Complete machine learning solutions including:
-   Data preprocessing, Feature engineering, Model training & evaluation, Deployment-ready scripts
-
----
-
-##  Let’s Connect
-
-If you’re interested in collaborating, hiring, or exchanging ideas, feel free to connect:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/richardyeboah1)  
-- 📧 richardsyeb23@gmail.com
-- 🌍 [Portfolio / Website (under maintenance)
-
----
-
-> “Turning data into models. Turning models into intelligence.”
-```
-
----
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=23353758945&text=Richie!)](https://api.whatsapp.com/send?phone=233537589458&text=Hello!) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/richardyeboah1) [![Website Badge](https://img.shields.io/badge/-Website-8a2d4a?style=flat&link=https://iammateus.com.br/)](https://iammateus.com.br/) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:richardsyeb23@gmail.com)](mailto:richardsyeb23@gmail.com)
 
 
+
+# 👋 About Me
+
+ I'm a data analyst and scientist who turns raw data into meaningful insights, dashboards and predictive models for real world use cases. 
+ All my projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+
+<br />
+
+ # 🧰 Languages and Tools
+ <p
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="MYSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+ </p>
+
+
+<br />
+<br />
+<br />
+
+
+
+# 🌱 What I'm currently learning 
+- Machine Learning
+- Advanced data modelling
+- Predictive analysis
+  
+<br />
+
+- # ⚡ Fun fact
+**`I love to play with data.`**
