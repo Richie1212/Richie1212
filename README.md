@@ -8,7 +8,7 @@
 
 # 👋 About Me
 
-I'm a data analyst, scientist, and product manager who takes raw data and turns it into meaningful insights, dashboards, and predictive models built for real-world impact. Every project is owned end-to-end — from scoping the problem and designing the solution to writing the code and shipping it
+I'm a data analyst, scientist, and product builder who takes ideas from zero to shipped. I design mobile and web interfaces in Figma, build on the web, and turn raw data into dashboards and predictive models while managing the full product lifecycle from planning to production.
 
 <br />
 
