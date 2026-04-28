@@ -1,6 +1,6 @@
 # 🧠 Richard Yeboah
 
- **`Data Analyst/Scientist`**
+ **`Data Analyst/Scientist/Product Manager`**
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=23353758945&text=Richie!)](https://api.whatsapp.com/send?phone=233537589458&text=Hello!) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/richardyeboah1) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:richardsyeb23@gmail.com)](mailto:richardsyeb23@gmail.com)
 
