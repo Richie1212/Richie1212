@@ -8,8 +8,7 @@
 
 # 👋 About Me
 
- I'm a data analyst and scientist who turns raw data into meaningful insights, dashboards and predictive models for real world use cases. 
- All my projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm a data analyst, scientist, and product manager who takes raw data and turns it into meaningful insights, dashboards, and predictive models built for real-world impact. Every project is owned end-to-end — from scoping the problem and designing the solution to writing the code and shipping it
 
 <br />
 
