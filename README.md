@@ -8,7 +8,7 @@
 
 # 👋 About Me
 
-I'm a data analyst, scientist, and product builder who takes ideas from zero to shipped. I design mobile and web interfaces in Figma, build on the web, and turn raw data into dashboards and predictive models while managing the full product lifecycle from planning to production.
+I'm a technical product manager who takes ideas from zero to shipped. I design mobile and web interfaces in Figma, build on the web, and turn raw data into dashboards and predictive models while managing the full product lifecycle from planning to production.
 
 <br />
 
